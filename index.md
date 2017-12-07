@@ -1,9 +1,7 @@
 ## Welcome to BLOXCHAT!
+We are a new chatting site still under development. Created by Jonathan Svitsky with <3 in USA. Please note that we are NOT associated with ROBLOX in any way.
 
-### Markdown 
-We are a new chatting site still being developed by our developers
-
-### Markdown
+## Verifying your account
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
