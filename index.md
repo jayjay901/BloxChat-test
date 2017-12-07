@@ -3,14 +3,8 @@ We are a new chatting site still under development. Created by Jonathan Svitsky 
 
 ## Verifying your account
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Once our systems have upgraded, we will provide a reCAPTCHA form you must complete in order to verify your account. This verification is an edited statement that you need to repeat correctly to make sure that you are a human and not a bot that is trying to spam and abuse our systems.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
